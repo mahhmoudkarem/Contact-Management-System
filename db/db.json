@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": "483f",
+      "firstName": "mahmoud",
+      "lastName": "karem",
+      "phone": "01554889770",
+      "email": "mahmoudmahmoudkarem8@gmail.com",
+      "city": "Cairo"
+    },
+    {
+      "id": "5980",
+      "firstName": "mahmoud",
+      "lastName": "karem",
+      "phone": "01554889770",
+      "email": "mariam@gmail.com",
+      "city": "Cairo"
+    }
+  ],
+  "signup": [
+    {
+      "id": "69ac",
+      "name": "Mahmoud Karem",
+      "email": "mahmoudmahmoudkarem8@gmail.com",
+      "password": "mmmkkkmmm"
+    },
+    {
+      "id": "be54",
+      "name": "HEBA MAHANY ISMIL",
+      "email": "466491518@cairo6.moe.edu.eg",
+      "password": "mmkkmm"
+    },
+    {
+      "id": "12a1",
+      "name": "mariam",
+      "email": "mariam@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "4b39",
+      "name": "KAREM MAHMOUD HASSAN",
+      "email": "466491518@cairo6.moe.edu.eg",
+      "password": "aaasss"
+    },
+    {
+      "id": "d1d7",
+      "name": "belal",
+      "email": "belalkarem41@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "admin-SignUp": [
+    {
+      "id": "0dc1",
+      "name": "Mahmoud Karem",
+      "email": "mahmoudmahmoudkarem8@gmail.com",
+      "password": "mmmkkk"
+    },
+    {
+      "id": "8e59",
+      "name": "KAREM MAHMOUD HASSAN",
+      "email": "466491518@cairo6.moe.edu.eg",
+      "password": "123456"
+    },
+    {
+      "id": "7e6a",
+      "name": "youssef mohamed",
+      "email": "youssef@gmail.com",
+      "password": "aaassss"
+    }
+  ]
+}
